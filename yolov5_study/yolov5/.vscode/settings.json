@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./utils/face_classification-master/src/utils",
+        "./utils/face_classification-master/src"
+    ]
+}
